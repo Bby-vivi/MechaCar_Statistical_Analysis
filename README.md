@@ -11,6 +11,7 @@
 
 
 ## T-Tests on Suspension Coils
+> Running t-test can ensure this determination. All manufacturing lots and each lot individually are different form the population mean of 1,500 pounds per square inch.
 ![T-Tests on Suspension Coils](https://user-images.githubusercontent.com/114452770/215942901-9f5aee2d-4a6c-4614-8b64-85a959076d0f.PNG)
 
 
