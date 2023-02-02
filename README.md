@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+> During the linear regression prediction we tested 6 diffrent dependent variables to determine what type of impact on miles per gallon. The linear regression model shows a significant likelihood of impact.
 ![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/114452770/215942506-98f6c76a-5070-4fc5-bdf4-b15243a590e1.PNG)
 
 
